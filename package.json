@@ -1,6 +1,6 @@
 {
   "name": "read-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Request and retrieve a simple entry in the console",
   "main": "index.js",
   "dependencies": {},
@@ -13,13 +13,11 @@
     "url": "git+https://github.com/HofferLeonhard/read-console.git"
   },
   "keywords": [
-    "minify",
-    "node",
-    "project",
-    "production",
-    "distribute",
-    "web",
-    "application"
+    "read",
+    "readline",
+    "console",
+    "stdin",
+    "log"
   ],
   "author": "Ouandi Mbiandja Hoffer Fleury",
   "license": "MIT-Clause",
