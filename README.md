@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# read-console
-Request and retrieve a simple entry in the console
-=======
 # read-console
 Request and retrieve a simple entry in the console
 
@@ -45,4 +41,3 @@ they are two parameters here :
 
 
 Enjoy it !
->>>>>>> Initial commit
