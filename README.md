@@ -14,7 +14,7 @@ First install read-console in your project as npm dependence by doing :
 
 When you have completely install the package in your project, you can access to it by a simple require.
 
-	var reader = require("./index.js");
+	var reader = require("read-console");
 
 Now, you can call a read function to read something you want. His prototype is the following :
 	
@@ -28,7 +28,7 @@ they are two parameters here :
 ### Complete example
 
 	
-	var reader = require("./index.js");
+	var reader = require("read-console");
 
 	reader.read("Enter something : ", (answer) => {
         console.log("You have enter = "+answer);
