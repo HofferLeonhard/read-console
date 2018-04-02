@@ -1,5 +1,6 @@
 var reader = require("./index.js");
-
-	reader.read("Enter something : ", (answer) => {
-        console.log("You have enter = "+answer);
+	
+	console.log("# Enter your Project path (exp: c:\\path\\to\\your\\project) ");
+	reader.read(" > ", (answer) => {
+        console.log("You have enter = "+answer+"  length = "+answer.length+"  last = "+(answer[answer.length-1] == '\n'));
     });

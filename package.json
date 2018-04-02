@@ -1,6 +1,6 @@
 {
   "name": "read-console",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Request and retrieve a simple entry in the console",
   "main": "index.js",
   "dependencies": {},
